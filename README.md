@@ -3,6 +3,6 @@
 - 🌱 I’m currently working on Miicon solutions as a Backend Developer in Engineering & Development depertment ...
 - 📫 How to reach me ... nayem@miiconsolutions.com --> my official gmail.
 
-- ⚡ Fun fact: ... push|pull
+- ⚡ Fun fact: ...  ]push | pull[
 
 
